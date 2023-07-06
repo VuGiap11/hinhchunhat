@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\bin\Debug\dientichhinhchunhat.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\bin\Debug\dientichhinhchunhat.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\bin\Debug\dientichhinhchunhat.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\obj\Debug\dientichhinhchunhat.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\obj\Debug\dientichhinhchunhat.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\obj\Debug\dientichhinhchunhat.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\obj\Debug\dientichhinhchunhat.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\dientichhinhchunhat\obj\Debug\dientichhinhchunhat.pdb
